@@ -18,7 +18,7 @@ engineer thinks about Redis in production:
 - Metrics endpoints
 - Runbooks for validation, troubleshooting, and teardown
 
-## Lab Topology
+## Topology
 
 Observed lab resources:
 
