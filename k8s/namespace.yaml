@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: redis-lab
+  labels:
+    app.kubernetes.io/name: redis-ha-k8s
+    app.kubernetes.io/part-of: data-platform-labs
+
